@@ -1,14 +1,14 @@
 {
   "launcher": {
     "version": "1.0.1.0",
-    "downloadUrl": "https://jtrsystems.com/jtrparking/updates/JTRLauncher_v1.0.1.0.exe",
+    "downloadUrl": "https://jtrsystems.com/jtrparking/updates/JTRLauncher_v1.0.1.0.zip",
     "releaseNotes": "Launcher improvements:\n\n• Enhanced dual version checking system\n• Added self-updating capability\n• Improved error handling and recovery\n• Better progress reporting\n\nThis update adds support for updating both launcher and application independently.",
     "forceUpdate": false,
     "fileSize": 2048576
   },
   "application": {
     "version": "1.0.1.0",
-    "downloadUrl": "https://jtrsystems.com/jtrparking/updates/JTRParking_v1.0.1.0.zip",
+    "downloadUrl": "https://jtrsystems.com/jtrparking/updates/JTRLauncher_v1.0.1.0.zip",
     "releaseNotes": "Bug fixes and improvements:\n\n• Fixed login issue with special characters\n• Improved performance for large parking lots\n• Updated UI for better user experience\n• Fixed database connection timeout issues\n\nThis update is recommended for all users.",
     "forceUpdate": false,
     "fileSize": 15728640
