@@ -7,7 +7,7 @@
     "fileSize": 2048576
   },
   "application": {
-    "version": "1.0.1.0",
+    "version": "1.0.0.0",
     "downloadUrl": "https://jtrsystems.com/jtrparking/updates/JTRLauncher_v1.0.1.0.zip",
     "releaseNotes": "Bug fixes and improvements:\n\n• Fixed login issue with special characters\n• Improved performance for large parking lots\n• Updated UI for better user experience\n• Fixed database connection timeout issues\n\nThis update is recommended for all users.",
     "forceUpdate": false,
